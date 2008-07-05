@@ -59,6 +59,9 @@ DESCRIPTION
     major speed increases in HTTP-based programs with relatively little
     work.
 
+METHODS
+    TO BE COMPLETED
+
 SUPPORT
     Bugs should be reported via the CPAN bug tracker at
 
@@ -67,17 +70,17 @@ SUPPORT
     For other issues, contact the author.
 
 AUTHORS
-    Jeff Bisbee <jbisbee@cpan.org>
+    Marlon Bailey <mbailey@cpan.org>
 
     Adam Kennedy <adamk@cpan.org>
 
-    Marlon Bailey <mbaily@cpan.org>
+    Jeff Bisbee <jbisbee@cpan.org>
 
 SEE ALSO
     LWP::Simple, POE
 
 COPYRIGHT
-    Copyright 2008 Jeff Bisbee, Adam Kennedy and Marlon Bailey.
+    Copyright 2008 Marlon Bailey, Adam Kennedy and Jess Bisbee.
 
     This program is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
